@@ -1,0 +1,5 @@
+<cross-domain-policy>
+   <allow-access-from domain="*.shellmix.com" to-ports=""44444,44440,3724,6112""/>
+   <allow-access-from domain="*.transformice.com" to-ports=""44444,44440,3724,6112""/>
+   <allow-access-from domain="5.70.193.8" to-ports=""44444,44440,3724,6112""/>
+</cross-domain-policy>
